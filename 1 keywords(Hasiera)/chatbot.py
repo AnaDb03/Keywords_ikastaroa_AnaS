@@ -26,6 +26,14 @@ def clean_text(query):
     #Esaldiari hasierako ¿ kendu
     if sentence.startswith('¿'):
         sentence = sentence[1:]
+        
+    #Esaldiari azkenengo ! kendu
+    if sentence.endswith('!'):
+        sentence = sentence[:-1]
+    
+    #Esaldiari hasierako ¡ kendu
+    if sentence.startswith('¡'):
+        sentence = sentence[1:]
     
     tildes = ['á','é','í','ó','ú','ü']
     vocales = ['a','e','i','o','u','u']
