@@ -41,7 +41,7 @@ keywords = {
     "matricularme": "request_matricula",
     "matricular": "request_matricula",
     "matriculacion": "request_matricula",
-   
+   "matriculas": "request_matricula",
 
     "contacto" : "request_contacto",
     "telefono": "request_contacto",
@@ -86,7 +86,7 @@ answer = {
     "request_despedida": "Espero haberte ayudado. Gracias por tu visita! Hasta pronto!",
     "request_contacto_horarios" : "El horario del centro es de 08:00-17:30. El horario de secretaría es de 09:00-14:30. ",
     "request_pre_matricula": "El periodo de pre-matrícula es a partir de junio. Si rellenas el siguiente formulario (xxx (URL), cuando se publiquen las fechas oficiales te podremos avisar. Puedes inscribirte aquí: xxx (URL)",
-    "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
+    "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: https://sites.google.com/fpdonbosco.com/idazkaritza-birtuala/hasiera-inicio", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
 
