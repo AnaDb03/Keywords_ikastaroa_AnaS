@@ -42,7 +42,9 @@ keywords = {
     "matricular": "request_matricula",
     "matriculacion": "request_matricula",
     "matriculas": "request_matricula",
-     "¿Cuándo son las fechas de las matrículas?": "request_matricula",
+    "matrículas": "request_matricula",
+   
+   
 
 
     "contacto" : "request_contacto",
