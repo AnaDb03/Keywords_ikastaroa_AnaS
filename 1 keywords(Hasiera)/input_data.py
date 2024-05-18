@@ -32,7 +32,7 @@ keywords = {
     "pre-matricularme": "request_pre_matricula",
     "pre-matricular": "request_pre_matricula",
     "pre-matriculacion": "request_pre_matricula",
-    "inscripción": "request_galdera_matricula",
+    "inscripcion": "request_galdera_matricula",
     "inscribirme": "request_pre_matricula",
     "inscribir": "request_pre_matricula",
     
