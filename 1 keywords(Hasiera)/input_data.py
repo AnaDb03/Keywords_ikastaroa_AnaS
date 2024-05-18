@@ -32,7 +32,7 @@ keywords = {
     "pre-matricularme": "request_pre_matricula",
     "pre-matricular": "request_pre_matricula",
     "pre-matriculacion": "request_pre_matricula",
-    "inscripcion": "request_pre_matricula",
+    "inscripción": "request_galdera_matricula",
     "inscribirme": "request_pre_matricula",
     "inscribir": "request_pre_matricula",
     
@@ -93,6 +93,7 @@ answer = {
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: https://sites.google.com/fpdonbosco.com/idazkaritza-birtuala/hasiera-inicio", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
+    "request_galdera_matricula": "Especifica si te refieres a la inscripción de la matricula o pre-matricula, por favor",
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
