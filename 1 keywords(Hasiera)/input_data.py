@@ -83,6 +83,13 @@ keywords = {
     "formaciones": "request_oferta",
 
     "metodologia": "request_metodologia",
+
+    "acreditar": "request_acreditacion",
+    "acreditacion": "request_acreditacion",
+    "requisitos": "request_requisitos",
+    "condiciones": "request_requisitos",
+    "inscribirse": "request_inscribir",
+    "apuntarse": "request_inscribir",
     
 
 }
@@ -99,6 +106,10 @@ answer = {
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_galdera_matricula": "Especifica si te refieres a la inscripción de la matricula o pre-matricula, por favor",
     "request_metodologia": "La metodología que utiliza el centro se basa en proyectos, ETHAZI ",
+
+    "request_acreditacion": "Sí, Don Bosco ofrece un servicio de Información y orientación personalizada sobre el Procedimiento de Evaluación y Acreditación de Competencias Profesionales. Más información: https://www.donbosco.eus/es/.",
+    "request_requisitos": "Consulta los requisitos que debes cumplir en la siguiente web: https://www.donbosco.eus/es/reconocimiento-de-competencias/.",
+    "request_inscribir": "La inscripción puede realizarse en cualquier centro de FP de Euskadi (97 centros en total).",
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
