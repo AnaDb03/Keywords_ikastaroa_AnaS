@@ -5,6 +5,8 @@ keywords = {
     "buenos": "request_saludo",
     "buen": "request_saludo",
     "holi": "request_saludo",
+    "kaixo": "request_saludo",
+    "ayudar": "request_saludo",
     
 
     "adios": "request_despedida",
@@ -79,6 +81,8 @@ keywords = {
     "titulacion": "request_oferta",
     "formacion": "request_oferta",
     "formaciones": "request_oferta",
+
+    "metodologia": "request_metodologia",
     
 
 }
@@ -94,6 +98,7 @@ answer = {
     "request_email" : "El email del centro es: Email: donbosco@donbosco.eus ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_galdera_matricula": "Especifica si te refieres a la inscripción de la matricula o pre-matricula, por favor",
+    "request_metodologia": "La metodología que utiliza el centro se basa en proyectos, ETHAZI ",
 
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
