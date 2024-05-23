@@ -35,8 +35,8 @@ keywords = {
     "pre-matricular": "request_pre_matricula",
     "pre-matriculacion": "request_pre_matricula",
     "inscripcion": "request_galdera_matricula",
-    "inscribirme": "request_pre_matricula",
-    "inscribir": "request_pre_matricula",
+    "inscribirme": "request_galdera_matricula",
+    "inscribir": "request_galdera_matricula",
     
 
     "matricula" : "request_matricula",
@@ -50,23 +50,28 @@ keywords = {
 
 
     "contacto" : "request_contacto",
+    
+
+   
+    "direccion": "request_direccion",
+    "localizacion": "request_direccion",
+    "sitio": "request_direccion",
+    "encuentra": "request_direccion",
+
     "telefono": "request_telefono",
     "tlfno": "request_telefono",
+    "tlfn": "request_telefono",
+    "llamar": "request_telefono",
+    "llamada": "request_telefono",
+
+    "e-mail": "request_email",
     "email": "request_email",
-    "direccion": "request_contacto",
-    "localizacion": "request_contacto",
-    "sitio": "request_contacto",
-    "encuentra": "request_contacto",
-    "e-mail": "request_contacto",
-    "tlfn": "request_contacto",
-    "llamar": "request_contacto",
-    "llamada": "request_contacto",
-    "correo": "request_contacto",
-    "electronico": "request_contacto",
-    "gmail": "request_contacto",
-    "hotmail": "request_contacto",
-    "g-mail": "request_contacto",
-    "mail": "request_contacto",
+    "correo": "request_email",
+    "electronico": "request_email",
+    "gmail": "request_email",
+    "hotmail": "request_email",
+    "g-mail": "request_email",
+    "mail": "request_email",
       
 
     "oferta": "request_oferta",
@@ -99,10 +104,12 @@ keywords = {
 answer = {
     "request_saludo": "¡Buenos días! Puedo ayudarte a contactar con el centro, proporcionarte información sobre prematricula/matricula y oferta", 
     "request_despedida": "Espero haberte ayudado. Gracias por tu visita! Hasta pronto!",
+    "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
     "request_contacto_horarios" : "El horario del centro es de 08:00-17:30. El horario de secretaría es de 09:00-14:30. ",
     "request_pre_matricula": "El periodo de pre-matrícula es a partir de junio. Si rellenas el siguiente formulario (xxx (URL), cuando se publiquen las fechas oficiales te podremos avisar. Puedes inscribirte aquí: xxx (URL)",
     "request_telefono" : "El teléfono del centro es: Teléfono: 943 51 04 50 ",  
     "request_email" : "El email del centro es: Email: donbosco@donbosco.eus ",
+    "request_direccion": "La dirección del centro es: Don Bosco Aldea, s/n, 20100 Errenteria ",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_galdera_matricula": "Especifica si te refieres a la inscripción de la matricula o pre-matricula, por favor",
     "request_metodologia": "La metodología que utiliza el centro se basa en proyectos, ETHAZI ",
